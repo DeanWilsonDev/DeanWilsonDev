@@ -20,17 +20,14 @@ DeanWilsonDev is currently being remade using a new React app.
 This currently links to the current Squarespace site. Plans are to swap it over to the new site soon.
 -->
 
+  
 [![DeanWilsonDev](https://img.shields.io/badge/DeanWilson/Dev-db650b?style=for-the-badge)](https://deanwilson.dev)
-
-
 
 ## 📽️ Projects
 
 ### Umbra Engine
 Custom Modular Game Engine, built in C++.
-
-[![umbra-banner](https://github.com/user-attachments/assets/d0ba6c3c-c5fe-49a7-8a4d-b52e0090e453)](https://github.com/UmbraEngine)
-
+<p align="center> <img src="https://github.com/user-attachments/assets/d0ba6c3c-c5fe-49a7-8a4d-b52e0090e453" alt="Umbra Engine"/> </p>
 <!--
 More Coming Soon!
 [![Umbra Engine 2D Renderer Module](https://github-readme-stats.vercel.app/api/pin/?username=UmbraEngine&repo=2d-renderer)](https://github.com/UmbraEngine/2d-renderer)
