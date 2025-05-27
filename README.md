@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deanwilsondev" alt="deanwilsondev" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DeanWilsonDev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)\
+[![trophy](https://github-profile-trophy.vercel.app/?username=DeanWilsonDev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Social Media
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/deanwilsondev/)
@@ -29,8 +29,7 @@ This currently links to the current Squarespace site. Plans are to swap it over 
 ### Umbra Engine
 Custom Modular Game Engine, built in C++.
 
-
-[![Umbra Engine](https://img.shields.io/badge/Umbra_Engine-420478?style=for-the-badge)](https://github.com/UmbraEngine)
+[![umbra-banner](https://github.com/user-attachments/assets/d0ba6c3c-c5fe-49a7-8a4d-b52e0090e453)](https://github.com/UmbraEngine)
 
 <!--
 More Coming Soon!
