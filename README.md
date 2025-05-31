@@ -26,6 +26,13 @@ This currently links to the current Squarespace site. Plans are to swap it over 
 
 ## 📽️ Projects
 
+### Snake
+A simple game of snake built in C++ using Raylib.
+
+This project acts as the starting point for building out the Umbra Engine modules.
+
+[![Snake Game](https://github-readme-stats.vercel.app/api/pin/?username=DeanWilsonDev&repo=snake)](https://github.com/DeanWilsonDev/snake)
+
 ### Umbra Engine
 Custom Modular Game Engine, built in C++.
 
