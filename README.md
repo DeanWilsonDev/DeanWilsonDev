@@ -36,7 +36,10 @@ This project acts as the starting point for building out the Umbra Engine module
 ### Umbra Engine
 Custom Modular Game Engine, built in C++.
 
-[![umbra-banner](https://github.com/user-attachments/assets/d0ba6c3c-c5fe-49a7-8a4d-b52e0090e453)](https://github.com/UmbraEngine)
+[![umbra-engine-logo-U-small](https://github.com/user-attachments/assets/cc91da3e-9900-4368-880e-6e4df65109a7)](https://github.com/UmbraEngine)
+
+
+<!-- [![umbra-banner](https://github.com/user-attachments/assets/d0ba6c3c-c5fe-49a7-8a4d-b52e0090e453)](https://github.com/UmbraEngine) -->
 
 <!--
 More Coming Soon!
