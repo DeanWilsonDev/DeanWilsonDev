@@ -54,9 +54,13 @@ More modules planned:
 -->
 
 #### Modules
-A fully custom written logging module that allows for logging to multiple file formats with different log levels:
+A fully custom-written logging module that allows for logging to multiple file formats with different log levels:
 
 👉 https://github.com/UmbraEngine/UmbraLog
+
+A simple testing library with a readable Describe/It/Test syntax, allowing for simple, clean, readable test cases.
+
+👉 https://github.com/UmbraEngine/UmbraTest
 
 ### My Languages and Tools
 <p align="center">
