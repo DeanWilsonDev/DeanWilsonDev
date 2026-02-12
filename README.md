@@ -15,14 +15,9 @@
 
 ## Portfolio
 
-<!--
-DeanWilsonDev is currently being remade using a new React app.
-This currently links to the current Squarespace site. Plans are to swap it over to the new site soon.
--->
+[![DeanWilsonDev](https://github.com/user-attachments/assets/3e6f5ce2-bf8e-4985-9a58-d03ed097d087)](https://deanwilson.dev)
 
-[![DeanWilsonDev](https://img.shields.io/badge/DeanWilson/Dev-db650b?style=for-the-badge)](https://deanwilson.dev)
-
-
+[![FEAR//LESS Game Dev](https://github.com/user-attachments/assets/1e9c16f7-fe54-4a87-9860-c6ed680147b8)](https://fearlessgamedev.com)
 
 ## 📽️ Projects
 
