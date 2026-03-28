@@ -1,14 +1,12 @@
-> *"A little every day goes a long way"*
+> *Where the darkness dances with light*
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deanwilsondev" alt="deanwilsondev" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DeanWilsonDev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## Social Media
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/deanwilsondev/)
-[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.com/@deanwilsondev)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.com/@fearlessgamedev)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=fff)](https://bsky.app/profile/fearlessgamedev.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/deanwilsondev/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fearlessgamedev/)
 [![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/deanwilsondev)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/fearlessgamedev)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@fearlessgamedev)
@@ -25,11 +23,22 @@
 A C++ game project focused on building core engine systems and gameplay mechanics.  
 👉 https://github.com/DeanWilsonDev/snake
 
+### Cimmerian
+
+👉 https://github.com/DeanWilsonDev/Cimmerian
+
+<a href="https://github.com/DeanWilsonDev/Cimmerian">
+<img width="500" height="500" alt="cimmerian-logo" src="https://github.com/user-attachments/assets/adaecbe2-4dad-45aa-8151-0b22c387831b" />
+</a>
+
+A simple testing library with a readable Describe/It/Test syntax, allowing for simple, clean, readable test cases.
+
 ### Umbra Engine
 Custom Modular Game Engine, built in C++.
 
-[![umbra-engine-logo-U-small](https://github.com/user-attachments/assets/cc91da3e-9900-4368-880e-6e4df65109a7)](https://github.com/UmbraEngine)
-
+<a href="https://github.com/UmbraEngine">
+<img width="500" height="500" alt="umbra-engine-logo" src="https://github.com/user-attachments/assets/cc91da3e-9900-4368-880e-6e4df65109a7" />
+</a>
 
 <!-- [![umbra-banner](https://github.com/user-attachments/assets/d0ba6c3c-c5fe-49a7-8a4d-b52e0090e453)](https://github.com/UmbraEngine) -->
 
@@ -52,10 +61,6 @@ More modules planned:
 A fully custom-written logging module that allows for logging to multiple file formats with different log levels:
 
 👉 https://github.com/UmbraEngine/UmbraLog
-
-A simple testing library with a readable Describe/It/Test syntax, allowing for simple, clean, readable test cases.
-
-👉 https://github.com/UmbraEngine/UmbraTest
 
 ### My Languages and Tools
 <p align="center">
