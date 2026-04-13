@@ -15,10 +15,10 @@
 
 <span>
 <a href="https://deanwilson.dev">
-<img width="500" height="300" alt="deanwilsondev-logo" src="https://github.com/user-attachments/assets/3e6f5ce2-bf8e-4985-9a58-d03ed097d087" />
+<img width="250" height="150" alt="deanwilsondev-logo" src="https://github.com/user-attachments/assets/3e6f5ce2-bf8e-4985-9a58-d03ed097d087" />
 </a>
 <a href="https://fearlessgamedev.com">
-<img width="500" height="300" alt="fearlessgamedev-logo" src="https://github.com/user-attachments/assets/1e9c16f7-fe54-4a87-9860-c6ed680147b8" />
+<img width="250" height="150" alt="fearlessgamedev-logo" src="https://github.com/user-attachments/assets/1e9c16f7-fe54-4a87-9860-c6ed680147b8" />
 </a>
 </span>
 
