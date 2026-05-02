@@ -17,12 +17,12 @@
   <tr>
     <td>
       <a href="https://deanwilson.dev">
-        <img width="420" height="280" alt="deanwilsondev-logo" src="https://github.com/user-attachments/assets/3e6f5ce2-bf8e-4985-9a58-d03ed097d087" />
+        <img width="450" height="280" alt="deanwilsondev-logo" src="https://github.com/user-attachments/assets/3e6f5ce2-bf8e-4985-9a58-d03ed097d087" />
       </a>
     </td>
     <td align="center">
       <a href="https://fearlessgamedev.com">
-        <img width="420" height="280" alt="fearlessgamedev-logo" src="https://github.com/user-attachments/assets/1e9c16f7-fe54-4a87-9860-c6ed680147b8" />
+        <img width="450" height="280" alt="fearlessgamedev-logo" src="https://github.com/user-attachments/assets/1e9c16f7-fe54-4a87-9860-c6ed680147b8" />
       </a>
     </td>
   </tr>
@@ -30,48 +30,38 @@
 
 ## 📽️ Projects
 
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <a href="https://github.com/deanwilsondev/amanuensis">
+        <img width="450" height="280" alt="amanuensis-github-banner" src="https://github.com/user-attachments/assets/c58ba553-3d8a-4452-8ce4-0ff419bbfd08" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/deanwilsondev/cimmerian">
+        <img width="450" height="280" alt="cimmerian-github-banner" src="https://github.com/user-attachments/assets/4d7ecde2-a6d3-4ed4-91ab-0d018b9163ac" />
+      </a>
+    </td>
+  </tr>
+    <tr>
+    <td>
+      <a href="https://github.com/deanwilsondev/firefly">
+        <img width="450" height="280" alt="firefly-github-banner" src="https://github.com/user-attachments/assets/48c78f2f-c419-41e2-9c37-5c2ad330930c" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/UmbraEngine">
+         <img width="450" height="280" alt="umbra-github-banner" src="https://github.com/user-attachments/assets/068f2c81-96ba-4af5-85c3-e5a8218bf957" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 ### 🐍 Snake (C++ / Game Project)
 A C++ game project focused on building core engine systems and gameplay mechanics.  
 👉 https://github.com/DeanWilsonDev/snake
 
-### Cimmerian
-
-👉 https://github.com/DeanWilsonDev/Cimmerian
-
-<a href="https://github.com/DeanWilsonDev/Cimmerian">
-<img width="500" height="500" alt="cimmerian-logo" src="https://github.com/user-attachments/assets/adaecbe2-4dad-45aa-8151-0b22c387831b" />
-</a>
-
-A simple testing library with a readable Describe/It/Test syntax, allowing for simple, clean, readable test cases.
-
-### Umbra Engine
-Custom Modular Game Engine, built in C++.
-
-<a href="https://github.com/UmbraEngine">
-<img width="500" height="500" alt="umbra-engine-logo" src="https://github.com/user-attachments/assets/cc91da3e-9900-4368-880e-6e4df65109a7" />
-</a>
-
-<!-- [![umbra-banner](https://github.com/user-attachments/assets/d0ba6c3c-c5fe-49a7-8a4d-b52e0090e453)](https://github.com/UmbraEngine) -->
-
-<!--
-More Coming Soon!
-[![Umbra Engine 2D Renderer Module](https://github-readme-stats.vercel.app/api/pin/?username=UmbraEngine&repo=2d-renderer)](https://github.com/UmbraEngine/2d-renderer)
-[![Umbra Engine Core Module](https://github-readme-stats.vercel.app/api/pin/?username=UmbraEngine&repo=core)](https://github.com/UmbraEngine/core)
-[![Umbra Engine Editor Module](https://github-readme-stats.vercel.app/api/pin/?username=UmbraEngine&repo=editor)](https://github.com/UmbraEngine/editor)
-
-More modules planned:
-- Testing
-- 3D Renderer
-- Audio
-- Physics
-- In Game UI Tools (Custom DSL inc)
-
--->
-
-#### Modules
-A fully custom-written logging module that allows for logging to multiple file formats with different log levels:
-
-👉 https://github.com/UmbraEngine/UmbraLog
 
 ### My Languages and Tools
 <p align="center">
